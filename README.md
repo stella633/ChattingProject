@@ -1,5 +1,5 @@
 # ChattingProject
-**********************************************
+
 * Usage Guide  
 -cser  
 -ccli  
