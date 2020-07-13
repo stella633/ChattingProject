@@ -1,9 +1,7 @@
 # ChattingProject
 **********************************************
-Usage Guide
-
+Usage Guide\n
 -cser
-
 -ccli
 
 Input Data
