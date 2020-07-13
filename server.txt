@@ -1,0 +1,10 @@
+root@ubuntu:/home/sellin/tmp/net/unpv13e/intro/project# ./cser 3333
+[server address is 192.168.52.138:3333]
+connected from 127.0.0.1:45102
+connected from 127.0.0.1:45104
+connected from 127.0.0.1:45106
+leaved at 127.0.0.1:45104
+connected from 127.0.0.1:45108
+leaved at 127.0.0.1:45106
+^C
+root@ubuntu:/home/sellin/tmp/net/unpv13e/intro/project#

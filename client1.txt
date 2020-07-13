@@ -1,0 +1,21 @@
+root@ubuntu:/home/sellin/tmp/net/unpv13e/intro/project# ./ccli 127.0.0.1 3333
+[127.0.0.1:45104 is connected]
+[127.0.0.1:45106 is connected]
+[127.0.0.1:45104 is leaved]
+[127.0.0.1:45108 is connected]
+/list
+[the number of current user is 3]
+[127.0.0.1:45102]
+[127.0.0.1:45106]
+[127.0.0.1:45108]
+[smsg from 127.0.0.1:45106]hello?
+/block 127.0.0.1:45106
+i'm freedom!
+[127.0.0.1:45108] what?
+/block 127.0.0.1:45108
+/blocklist
+[the number of block user is 2]
+[127.0.0.1:45106]
+[127.0.0.1:45108]
+/release 127.0.0.1:45108
+[127.0.0.1:45108] why?

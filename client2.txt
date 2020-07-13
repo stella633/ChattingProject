@@ -1,0 +1,12 @@
+root@ubuntu:/home/sellin/tmp/net/unpv13e/intro/project# ./ccli 127.0.0.1 3333
+[127.0.0.1:45102] i'm freedom!
+what?
+[127.0.0.1:45106] what?
+who is the 127.0.0.1:45102
+[127.0.0.1:45106] i don't know.
+[127.0.0.1:45106] ....
+why?
+[127.0.0.1:45106] i think i shoud go out. good bye.
+[127.0.0.1:45106 is leaved]
+/quit
+root@ubuntu:/home/sellin/tmp/net/unpv13e/intro/project# 
